@@ -50,7 +50,7 @@ if __name__ == "__main__":
         long_description_content_type="text/markdown",
         author="Hervé Bredin",
         author_email="herve.bredin@irit.fr",
-        url="https://github.com/pyannote/pyannote-audio",
+        url="https://github.com/CeLuigi/pyannote-audio",
         classifiers=[
             "Development Status :: 4 - Beta",
             "Intended Audience :: Science/Research",
